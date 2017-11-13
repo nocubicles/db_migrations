@@ -1,0 +1,51 @@
+{ "_id" : "4TxKj9ZCkzGm8S3Zt", "make" : "Samsung", "model" : "Galaxy S6 32GB", "price" : 125, "createdAt" : { "$date" : "2017-06-26T15:16:44.975+0000" }, "updatedAt" : { "$date" : "2017-07-03T18:48:07.606+0000" } }
+{ "_id" : "dhLfyQJDokErRR5kw", "make" : "Samsung", "model" : "Galaxy S5 32GB", "price" : 80, "createdAt" : { "$date" : "2017-06-26T15:16:54.269+0000" }, "updatedAt" : { "$date" : "2017-07-03T18:47:33.638+0000" } }
+{ "_id" : "usuSBXrAcZQmzcHsc", "make" : "Samsung", "model" : "Galaxy S5 16GB", "price" : 70, "createdAt" : { "$date" : "2017-06-26T15:17:02.590+0000" }, "updatedAt" : { "$date" : "2017-07-03T18:46:47.868+0000" } }
+{ "_id" : "W7YQhu7ev26h33pQ3", "make" : "Huawei", "model" : "P9 Lite", "price" : 75, "createdAt" : { "$date" : "2017-06-26T15:17:12.637+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:07:58.755+0000" } }
+{ "_id" : "EePRDju44Knqk5ycL", "make" : "Huawei", "model" : "P9 32GB", "price" : 165, "createdAt" : { "$date" : "2017-06-26T15:17:24.580+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:08:59.790+0000" } }
+{ "_id" : "W5mqqoiosiX2ec9So", "make" : "Apple", "model" : "Iphone 6 32 GB", "price" : 140, "createdAt" : { "$date" : "2017-06-26T15:17:47.165+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:11:13.966+0000" } }
+{ "_id" : "qjBYcQKaH6KXEFjhE", "make" : "Apple", "model" : "Iphone 6 16GB", "price" : 135, "createdAt" : { "$date" : "2017-06-26T15:17:57.334+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:10:50.202+0000" } }
+{ "_id" : "vHTxboRpkJ7tHY8Q7", "make" : "Huawei", "model" : "P8 Lite", "price" : 65, "createdAt" : { "$date" : "2017-06-26T15:18:08.953+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:08:15.115+0000" } }
+{ "_id" : "kMjR54bWqiLA7ftJY", "make" : "Samsung", "model" : "Galaxy S4 16GB", "price" : 50, "createdAt" : { "$date" : "2017-07-03T12:24:31.439+0000" } }
+{ "_id" : "hqnMHbYJ2BFCMDSa3", "make" : "Samsung", "model" : "Galaxy S4 32GB", "price" : 60, "createdAt" : { "$date" : "2017-07-03T12:24:46.153+0000" } }
+{ "_id" : "SoKpkWjQurq6kgHJx", "make" : "Samsung", "model" : "Galaxy S6 64GB", "price" : 135, "createdAt" : { "$date" : "2017-07-03T18:48:27.179+0000" } }
+{ "_id" : "B795HrnZMrkpdfvZG", "make" : "Samsung", "model" : "Galaxy S6 128GB", "price" : 145, "createdAt" : { "$date" : "2017-07-03T18:48:40.291+0000" } }
+{ "_id" : "zKQd62E7nAHdkMNAm", "make" : "Samsung", "model" : "Galaxy S6 32GB EDGE", "price" : 135, "createdAt" : { "$date" : "2017-07-03T18:57:45.096+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:45:33.118+0000" } }
+{ "_id" : "exevqDsuqyR5yEtmJ", "make" : "Samsung", "model" : "Galaxy S6 64GB EDGE", "price" : 155, "createdAt" : { "$date" : "2017-07-03T18:58:01.490+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:38:36.983+0000" } }
+{ "_id" : "48jGEkWwyF5pu8zsJ", "make" : "Samsung", "model" : "Galaxy S6 128GB EDGE", "price" : 160, "createdAt" : { "$date" : "2017-07-03T18:58:21.902+0000" } }
+{ "_id" : "DkihwgvRhJFzzX5rj", "make" : "Huawei", "model" : "P9 64GB", "price" : 185, "createdAt" : { "$date" : "2017-07-03T19:09:17.834+0000" } }
+{ "_id" : "JbvGMoL9JcSdCMGbQ", "make" : "Samsung", "model" : "Galaxy A5 2016", "price" : 90, "createdAt" : { "$date" : "2017-07-03T19:09:39.511+0000" } }
+{ "_id" : "R73AmyRWtiGXRXqFK", "make" : "Samsung", "model" : "Galaxy A3 2016", "price" : 65, "createdAt" : { "$date" : "2017-07-03T19:09:52.904+0000" } }
+{ "_id" : "yAZraLtjrq9G833Ma", "make" : "Apple", "model" : "Iphone 6 64GB", "price" : 150, "createdAt" : { "$date" : "2017-07-03T19:11:30.286+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:11:40.197+0000" } }
+{ "_id" : "u4oKpuzukt3QMefc9", "make" : "Apple", "model" : "Iphone SE 16GB", "price" : 135, "createdAt" : { "$date" : "2017-07-03T19:12:06.108+0000" } }
+{ "_id" : "etgwdBx8Xc3fzST6h", "make" : "Apple", "model" : "Iphone SE 32GB", "price" : 145, "createdAt" : { "$date" : "2017-07-03T19:12:25.007+0000" } }
+{ "_id" : "ak9MMcxpekaBButn5", "make" : "Apple", "model" : "Iphone SE 64GB", "price" : 155, "createdAt" : { "$date" : "2017-07-03T19:12:36.625+0000" } }
+{ "_id" : "QXvXet7LTZhWYZe2n", "make" : "LG", "model" : "G6 32GB", "price" : 200, "createdAt" : { "$date" : "2017-07-03T19:16:12.277+0000" } }
+{ "_id" : "yBihYW62sRmGegZaX", "make" : "LG", "model" : "G6 64GB", "price" : 220, "createdAt" : { "$date" : "2017-07-03T19:16:26.434+0000" } }
+{ "_id" : "zvfztGj6GhNFgSMLb", "make" : "LG", "model" : "Nexus 5X 16GB", "price" : 60, "createdAt" : { "$date" : "2017-07-03T19:17:08.302+0000" } }
+{ "_id" : "eAca5FfJqWn7Pxzr7", "make" : "LG", "model" : "Nexus 5X 32GB", "price" : 70, "createdAt" : { "$date" : "2017-07-03T19:17:35.952+0000" } }
+{ "_id" : "5QgfqKXg6fg46J5RY", "make" : "LG", "model" : "G5", "price" : 160, "createdAt" : { "$date" : "2017-07-03T19:19:17.288+0000" } }
+{ "_id" : "nmpMudMcwQoF2myrA", "make" : "Sony", "model" : "Xperia XZ 32GB", "price" : 200, "createdAt" : { "$date" : "2017-07-03T19:21:30.770+0000" } }
+{ "_id" : "vBYYNfoHBwW6HpASo", "make" : "Sony", "model" : "Xperia XZ 64GB", "price" : 220, "createdAt" : { "$date" : "2017-07-03T19:21:39.977+0000" } }
+{ "_id" : "bAA3GKjTphmGbjTQx", "make" : "Sony", "model" : "Xperia X Compact", "price" : 130, "createdAt" : { "$date" : "2017-07-03T19:22:08.034+0000" } }
+{ "_id" : "tRSZZFaNHaeCZAmex", "make" : "Sony", "model" : "Xperia XA", "price" : 75, "createdAt" : { "$date" : "2017-07-03T19:22:43.781+0000" } }
+{ "_id" : "uzFqqJXJbhsGNGXra", "make" : "Sony", "model" : "Xperia X 32GB", "price" : 110, "createdAt" : { "$date" : "2017-07-03T19:23:23.029+0000" } }
+{ "_id" : "6QLQkHQCh4hpEz3kX", "make" : "Sony", "model" : "Xperia X 64GB", "price" : 120, "createdAt" : { "$date" : "2017-07-03T19:23:33.014+0000" } }
+{ "_id" : "XNxxhHc4Av9kJEXwk", "make" : "Sony", "model" : "Xperia Z5", "price" : 135, "createdAt" : { "$date" : "2017-07-03T19:24:00.919+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:38:54.746+0000" } }
+{ "_id" : "MnjGSGR2LmGfiD6qG", "make" : "Sony", "model" : "Xperia M5", "price" : 70, "createdAt" : { "$date" : "2017-07-03T19:39:34.026+0000" }, "updatedAt" : { "$date" : "2017-07-03T19:39:39.870+0000" } }
+{ "_id" : "KwFro58vY5wEy9zog", "make" : "Sony", "model" : "Xperia M4 Aqua", "price" : 45, "createdAt" : { "$date" : "2017-07-03T19:40:13.864+0000" } }
+{ "_id" : "zmW8gvNucCFQNJbnH", "make" : "Sony", "model" : "Xperia Z3", "price" : 75, "createdAt" : { "$date" : "2017-07-03T19:40:42.416+0000" } }
+{ "_id" : "s58MY3M3NpWu9NsZM", "make" : "Sony", "model" : "Xperia Z3 Compact", "price" : 60, "createdAt" : { "$date" : "2017-07-03T19:40:49.567+0000" } }
+{ "_id" : "zmWABkN3n7A5pRcqf", "make" : "Samsung", "model" : "Galaxy S5 Mini", "price" : 30, "createdAt" : { "$date" : "2017-07-03T19:47:15.620+0000" }, "updatedAt" : { "$date" : "2017-11-12T11:37:30.606+0000" } }
+{ "_id" : "uSyuzQnhz8Sqqv9ok", "make" : "Huawei", "model" : "Mate S 32GB", "price" : 90, "createdAt" : { "$date" : "2017-07-05T03:40:46.388+0000" } }
+{ "_id" : "GFhqrjYBJovBRAQKM", "make" : "Huawei", "model" : "Mate S 64GB", "price" : 100, "createdAt" : { "$date" : "2017-07-05T03:40:57.290+0000" } }
+{ "_id" : "6gYfogSmKfyJHEfTC", "make" : "Huawei", "model" : "Mate S 128GB", "price" : 115, "createdAt" : { "$date" : "2017-07-05T03:41:19.803+0000" } }
+{ "_id" : "TC3HyETij5hF4AzNB", "make" : "HTC", "model" : "One ME", "price" : 90, "createdAt" : { "$date" : "2017-07-05T05:17:12.767+0000" } }
+{ "_id" : "uynLBrsP4b3j5nF6P", "make" : "HTC", "model" : "M9e", "price" : 145, "createdAt" : { "$date" : "2017-07-05T05:17:36.078+0000" } }
+{ "_id" : "AsjjwKFR9rMswFoRj", "make" : "LG", "model" : "G2 32GB", "price" : 40, "createdAt" : { "$date" : "2017-07-05T07:23:17.314+0000" } }
+{ "_id" : "SwZSw3WFB5tD8TjMC", "make" : "Samsung", "model" : "Galaxy S7 32GB Edge", "price" : 220, "createdAt" : { "$date" : "2017-07-12T11:29:28.869+0000" }, "updatedAt" : { "$date" : "2017-07-12T11:30:06.666+0000" } }
+{ "_id" : "qH9R5i7bTNnPME27C", "make" : "Samsung", "model" : "Galaxy S7 64GB Edge", "price" : 240, "createdAt" : { "$date" : "2017-07-12T11:29:42.592+0000" }, "updatedAt" : { "$date" : "2017-07-12T11:29:57.125+0000" } }
+{ "_id" : "3FoKed6NFgRdjTBsa", "make" : "Samsung", "model" : "Galaxy S7 32GB", "price" : 185, "createdAt" : { "$date" : "2017-07-12T11:30:50.213+0000" } }
+{ "_id" : "mD7LHfeWj9hSv73iQ", "make" : "Samsung", "model" : "Galaxy S7 64GB", "price" : 215, "createdAt" : { "$date" : "2017-07-12T11:31:19.783+0000" }, "updatedAt" : { "$date" : "2017-07-12T11:31:25.329+0000" } }
+{ "_id" : "6T3z27Nw3gMbfCoS3", "make" : "Samsung", "model" : "Galaxy A3 2015", "price" : 45, "createdAt" : { "$date" : "2017-07-13T03:22:58.925+0000" }, "updatedAt" : { "$date" : "2017-07-13T03:23:16.301+0000" } }
+{ "_id" : "4zkDzPHiTkYwRh3C8", "make" : "Samsung", "model" : "Galaxy A5 2015", "price" : 55, "createdAt" : { "$date" : "2017-07-13T03:23:09.973+0000" } }
